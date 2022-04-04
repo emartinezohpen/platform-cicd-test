@@ -1,0 +1,16 @@
+name: continuous-delivery-test
+on: 
+  push:
+    branches: ["main"]
+jobs:
+  continuous-delivery:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
+      - name: semver & changelog
+        run: ohpensource/platform-cicd/actions/git/generate-version-and-release-notes@92364603b2991b3fed7ed1c311bae410bf947ee9
+        with:
+          user-email: "github-svc@ohpen.com"
+          user-name: "GitHub Actions"
