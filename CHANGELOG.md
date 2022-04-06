@@ -1,3 +1,9 @@
+# :confetti_ball: 2.0.0 (2022-04-06T09:18:53.778Z)
+- - -
+## :boom: BREAKING CHANGES
+* STP-225 changed filname from commit-test.log to commi-log-test.log (#4)
+- - -
+- - -
 # :confetti_ball: 1.0.0 (2022-04-06T09:14:12.443Z)
 - - -
 ## :boom: BREAKING CHANGES
