@@ -1,3 +1,9 @@
+# :confetti_ball: 0.1.0 (2022-04-06T07:31:06.451Z)
+- - -
+## :hammer: Features
+* SPT-225 - added commit-test.txt (#1)
+- - -
+- - -
 # :confetti_ball: 0.0.3 (2022-04-06T07:24:16.992Z)
 - - -
 ## :bug: Fixes
