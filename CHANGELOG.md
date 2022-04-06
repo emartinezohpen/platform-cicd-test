@@ -1,3 +1,9 @@
+# :confetti_ball: 1.0.0 (2022-04-06T09:14:12.443Z)
+- - -
+## :boom: BREAKING CHANGES
+* SPT-225 - changed filname from commit-test.txt to commit-test.log (#3)
+- - -
+- - -
 # :confetti_ball: 0.1.4 (2022-04-06T09:09:09.357Z)
 - - -
 ## :bug: Fixes
