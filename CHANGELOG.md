@@ -1,3 +1,9 @@
+# :confetti_ball: 0.1.4 (2022-04-06T09:09:09.357Z)
+- - -
+## :bug: Fixes
+* STP-225 - modified commit-test.txt (#2)
+- - -
+- - -
 # :confetti_ball: 0.1.3 (2022-04-06T08:55:03.600Z)
 - - -
 ## :newspaper: Others
