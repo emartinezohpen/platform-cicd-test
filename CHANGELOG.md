@@ -1,3 +1,9 @@
+# :confetti_ball: 0.1.2 (2022-04-06T08:51:20.438Z)
+- - -
+## :bug: Fixes
+* updated platform-cicd hash
+- - -
+- - -
 # :confetti_ball: 0.1.1 (2022-04-06T08:18:24.897Z)
 - - -
 ## :bug: Fixes
