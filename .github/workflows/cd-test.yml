@@ -10,7 +10,7 @@ jobs:
         with:
           fetch-depth: 0
       - name: semver & changelog
-        uses: ohpensource/platform-cicd/actions/git/generate-version-and-release-notes@ea53d4a7e518d941153b42ca1f734a9db546d360
+        uses: ohpensource/platform-cicd/actions/git/generate-version-and-release-notes@33f3a775770aa38d25a9e27c9bc1c34dcdde9f2a
         with:
           user-email: "github-svc@ohpen.com"
           user-name: "GitHub Actions"

@@ -13,7 +13,7 @@ jobs:
         with:
           fetch-depth: 0
       - name: ensure-conventional-commits
-        uses: ohpensource/platform-cicd/actions/git/ensure-conventional-commits@ea53d4a7e518d941153b42ca1f734a9db546d360
+        uses: ohpensource/platform-cicd/actions/git/ensure-conventional-commits@33f3a775770aa38d25a9e27c9bc1c34dcdde9f2a
         with:
           base-branch: $GITHUB_BASE_REF
           pr-branch: $GITHUB_HEAD_REF
@@ -24,7 +24,7 @@ jobs:
         with:
           fetch-depth: 0
       - name: ensure-jira-tickets-commits
-        uses: ohpensource/platform-cicd/actions/git/ensure-commits-message-jira-ticket@ea53d4a7e518d941153b42ca1f734a9db546d360
+        uses: ohpensource/platform-cicd/actions/git/ensure-commits-message-jira-ticket@33f3a775770aa38d25a9e27c9bc1c34dcdde9f2a
         with:
           base-branch: $GITHUB_BASE_REF
           pr-branch: $GITHUB_HEAD_REF
