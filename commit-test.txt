@@ -1,1 +1,2 @@
 First commit on feature/SPT-225 to add commit-test.txt
+Second commit on feature/SPT-225 to add commit-test.txt
